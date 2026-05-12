@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Vex Robotics
+title: High School Vex Robotics Competition
 description: Advanced Prototyping Project
 technologies: [Autodesk Inventor, Ansys Discovery, Onshape]
 image: /assets/images/VEX-ChangeUp.JPG

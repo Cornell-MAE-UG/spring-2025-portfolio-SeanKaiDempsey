@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Driveshafts and cv joints
+title: Cornell Baja Racing Driveshafts and CV Joints
 description: Advanced Design Project
 technologies: [Solidworks, ANSYS FEA]
 image: /assets/images/driveshafts.png
