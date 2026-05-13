@@ -6,6 +6,11 @@ technologies: [Arduino (AVR C), Fusion 360, Laser Cutting, Circuit Design]
 image: /assets/images/Mechatronics.jpg
 ---
 
+<video width="320" height="240" controls>
+  <source src="{{ site.baseurl }}/assets/videos/robot_wall_deploy.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 In MAE 3780 Mechatronics, my team designed and built a competitive robot for Cornell's Cube Craze tournament. Rather than optimizing a collector like most teams, we took an unconventional defensive approach: a deployable lattice wall that, once released, extended 20 inches on each side to block the opposing robot from collecting cubes entirely.
 
 I designed the lattice wall mechanism in Fusion 360, which had to fit within an 8"×8" starting constraint while expanding dramatically upon release. I also wrote the majority of the robot's control code in AVR C using direct register manipulation, foregoing Arduino library functions entirely for lower-level hardware control.
