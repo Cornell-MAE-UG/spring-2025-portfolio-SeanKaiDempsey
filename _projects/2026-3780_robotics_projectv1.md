@@ -19,6 +19,6 @@ In MAE 3780 Mechatronics, my team designed and built a competitive robot for Cor
 
 I designed the lattice wall mechanism in Fusion 360, which had to fit within an 8"×8" starting constraint while expanding dramatically upon release. I also wrote the majority of the robot's control code in AVR C using direct register manipulation, foregoing Arduino library functions entirely for lower-level hardware control.
 
-I noticed that the Arduino's bootloader introduced a 1.5-second startup delay when the robot starts, which is critical when wall deployment timing determined the outcome of a match. By flashing the microcontroller without a bootloader using a second Arduino as a programmer, I reduced that delay to 0.1 seconds, a 15x improvement. The robot drew significant attention at competition, including interest from ASML engineers who asked to compete against us after the event concluded
+I noticed that the Arduino's bootloader introduced a 1.5-second startup delay when the robot starts, which is critical when wall deployment timing determined the outcome of a match. By flashing the microcontroller without a bootloader using a second Arduino as a programmer, I reduced that delay to 0.1 seconds, a 15x improvement. The robot drew significant attention at competition, including interest from ASML engineers who asked to compete against us after the event concluded.
 
 <iframe src="{{ site.baseurl }}/assets/pdf/MAE3780_robotics_report.pdf" width="100%" height="800px"></iframe>
