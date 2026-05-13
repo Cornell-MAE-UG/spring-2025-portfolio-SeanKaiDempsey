@@ -6,11 +6,14 @@ technologies: [Arduino (AVR C), Fusion 360, Laser Cutting, Circuit Design]
 image: /assets/images/Mechatronics.jpg
 ---
 
-<video width="1080" height="1920" controls>
-  <source src="{{ site.baseurl }}/assets/videos/robot_wall_deploy.mp4" type="video/mp4">
 
-  Your browser does not support the video tag.
-</video>
+<div style="float: right; margin: 0 0 10px 20px;">
+    <video width="315" height="560" muted controls>
+        <source src="{{ site.baseurl }}/assets/videos/robot_wall_deploy.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 
 In MAE 3780 Mechatronics, my team designed and built a competitive robot for Cornell's Cube Craze tournament. Rather than optimizing a collector like most teams, we took an unconventional defensive approach: a deployable lattice wall that, once released, extended 20 inches on each side to block the opposing robot from collecting cubes entirely.
 
