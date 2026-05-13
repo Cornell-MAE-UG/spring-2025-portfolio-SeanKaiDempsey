@@ -6,8 +6,9 @@ technologies: [Arduino (AVR C), Fusion 360, Laser Cutting, Circuit Design]
 image: /assets/images/Mechatronics.jpg
 ---
 
-<video width="320" height="240" controls>
+<video width="1080" height="1920" controls>
   <source src="{{ site.baseurl }}/assets/videos/robot_wall_deploy.mp4" type="video/mp4">
+
   Your browser does not support the video tag.
 </video>
 
