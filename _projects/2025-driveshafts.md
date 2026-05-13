@@ -6,7 +6,7 @@ technologies: [Solidworks, ANSYS FEA]
 image: /assets/images/driveshafts.png
 ---
 
-My project for Cornell Baja Racing 2024-2025 was to design the driveshafts and plunging cups for our 2025 car, TG21. This part had a lot of potential for weight savings since TGXX's driveshafts where designed to be carbon fiber bonded, but failed under testing leaving us using solid stainless steel shafts weight 2.93 lbs per shat. This left a lot of opportunities to reduce weight.
+My project for Cornell Baja Racing 2024-2025 was to design the driveshafts and plunging cups for our 2025 car, TG21. This part had a lot of potential for weight savings since TGXX's driveshafts where designed to be carbon fiber bonded, but failed under testing leaving us using solid stainless steel shafts weight 2.93 lbs per shaft. This left a lot of opportunities to reduce weight.
 
 I looked a wide range of materials and manufacturing techniques to weight reduce this part. I created an engineering design trade table weighting potential weight savings, packaging, manufacturability and costs. The prevailing solution was to gun drill a high strength heat treated steel because it resulted in a 58% weight reduction.
 

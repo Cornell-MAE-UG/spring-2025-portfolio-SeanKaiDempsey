@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.88/4.0 | Graduation: May, 2027
+  GPA: 3.9/4.0 | Graduation: December, 2026
 
 - **Chadwick School**  
   *High School Diploma*  
@@ -32,8 +32,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 - **CAD:** Autodesk Fusion 360, Autodesk Inventor, OnShape SolidWorks, NX, Teamcenter
 - **CAM:** HSMWorks, VCarve Pro
 - **Analysis:** ANSYS Mechanical, ANSYS discovery   
-- **Programming:** Python, MATLAB, Java, C++ 
-- **Manufacturing:** 
+- **Programming:** Python, MATLAB, Java, C++
+- **Manufacturing:**
   - CNC Machining: Trak Lathe, Tormach Mill, ShopBot Router
   - Rapid Prototyping: FDM 3D printing, Laser Cutting
   - Manual Machining: Hardinge Lathe, Bridgeport Mill
@@ -52,7 +52,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   - Utilize Ansys Discovery CFD to model flying game elements to inform system design.
   - Used OnShape CAD to design full robot assembly for the team’s turret-bot. Created custom spur gears for turret base and a custom ring gear for a planetary gear set.
   - CAM & machined gears on desktop CNC router and manufactured custom motor spline with manual mill and lathe.
-  - Used Autodesk Inventor to design holonomic x-drive to allow movement in any direction on the playing field optimizing for autonomous driving points. 
+  - Used Autodesk Inventor to design holonomic x-drive to allow movement in any direction on the playing field optimizing for autonomous driving points.
   - Program autonomous driving by creating control system diagrams and implementing inverse motor model & PID in C++
 
 ---
@@ -80,7 +80,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 --- -->
 
 #### Extracurricular Activities
-- Volunteer for Disabled Sports Eastern Sierra as an adaptive ski instructor. 
+- Volunteer for Disabled Sports Eastern Sierra as an adaptive ski instructor.
 - Member of Chadwick school Ecology Club
 
 ---
