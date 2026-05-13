@@ -23,4 +23,4 @@ In order to accomplish turret auto aiming custom control systems had to be desig
 
 After great success with the engineering notebook in the previous competition season significant emphasis was placed on the engineering notebook.
 
-#You can take a look at the engineering notebook [here]({{ "/assets/2150A-SpinUp-#Digital-Notebook-2022-2023.pdf" | relative_url }}) in PDF format.
+You can take a look at the engineering notebook [here](https://www.seankaidempsey.com/2150A_Spin_Up_Notebooks-10_5_22_Edition.pdf) in PDF format.
