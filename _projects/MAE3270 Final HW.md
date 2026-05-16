@@ -6,8 +6,6 @@ technologies: Ansys Mechanical, Ansys Granta, Fusion 360, Matlab
 image: /assets/images/3270-torque-wrench.png
 ---
 
-# MAE 3270 Design Project: Torque Wrench
-
 ## Sean Dempsey and Lea Staller
 
 # **Design Goal**
@@ -37,7 +35,6 @@ Output Voltage (mV/V): **2.41**
 
 Two primary changes can be made to the design to increase the factor of safety: reducing the stress concentration around the transition area by increasing the fillet size, making the stress flow smoother, or increasing the size of the handle to have a larger moment area of inertia, decreasing the bending stress in the beam.   
 **Final FEA optimized design**:  
-**![][image4]**  
 ![Wrench Final Design]({{ "/assets/images/WrenchFinalDesign.png" | relative_url }}){: style="width: 80%;"}
 
 **MATLAB Hand Calculations for Final Design**:   
@@ -51,19 +48,26 @@ Strain at Gauge (microstrain): 2370.4 
 Output Voltage (mV/V): **2.37**
 
 **Iteration 1**: In the first iteration, we changed the CAD model to have a larger fillet as a way to improve stress flow from the bar to the driver, but the stress is still above the allowable stress. This design has an FOS of 3.67, an improvement but still below the required FOS of 4\.   
-![][image5]  
+
+![Wrench FEA Iteration 1]({{ "/assets/images/WrenchFEAIter1.png" | relative_url }}){: style="width: 60%;"}
+
 This design change doesn’t affect the main design goal of optimizing strain-gauge voltage output because the beam cross-section remains unchanged, so the strain at the gauge location doesn't change.  The strain gauge is located 1 in from the center of the drive so that the stress concentrations around the changing geometry don’t affect the strain gauge. Increasing the fillet size did not significantly affect the strain distribution at the strain gauge, so it can remain in the same location.   
 **Final Iteration (2)**: We were still getting too high stress around the fillet location, so we changed the height (h) and width (b) of the handle beam to be slightly larger.  
 
-Both the height and width were changed to 0.375 in, which increased the hand-calculated FOS to 4.25.
+![Wrench FEA Iteration 2]({{ "/assets/images/WrenchFEAIter2.png" | relative_url }}){: style="width: 60%; float: left; margin-right: 20px; margin-bottom: 10px;"}
 
-Referencing the FEM results, the FOS to yield is 4.00 exactly.   
+Both the height and width were changed to 0.375 in, which increased the hand-calculated FOS to 4.25. Referencing the FEM results, the FOS to yield is 4.00 exactly.
+
 This change reduced strain because the bar's stiffness increased. This results in a decrease in output voltage from the strain gauge. In the FEM model, compared to the hand calculations, there is more strain at the strain gauge location. We calculated there should be 2370.4 microstrain, and when running the FEA, we got a strain at the gauge of 2425 microstrain. This results in a 2.2% difference, which is not significant enough for concern. The handle of the torque wrench can be very closely approximated as a beam in bending, resulting in very similar strains.   
 ![][image6]
+![Wrench FEA Elastic Strain]({{ "/assets/images/WrenchFEAIter1.png" | relative_url }}){: style="width: 80%;"}
+
 
 The hand-calculated maximum normal stress is 68266.7 psi, and the FEM maximum normal stress is 72487 psi.  
 Percent difference: 72487 \- 68266.7(72487+68266.7)/2100 \= 6.0%   
+
 ![][image7]  
+
 The two values do not differ significantly, having a small percent difference of 6.0%. The reason they are not that different is because the stress concentration in the FEM is smoothed out by the large fillet located between the changes in geometry. There is a difference because beam theory does not account for this change in geometry and stress concentration, but it does a decent job given the fillet's general location on the main part of the rod.  
 The normal stress was used because it accurately represents the bending stress in the beam and ignores artificial stress risers due to boundary conditions.
 
