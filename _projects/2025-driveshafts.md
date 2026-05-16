@@ -94,4 +94,4 @@ For the rear plunging cups I added a key slot to the brake rotor mount interface
 TG21 competed successfully with no issues on either the driveshafts or plunging cups. A plunging CV internal cage failed during competition, but this was an off-the-shelf component that had been run for years. New OEM parts where purchased and there was no other issues. The diff plunging cups ran for all three competition without issues. TG21 came in first place at all competitions that it competed in.
 
 
-[View Full Technical Report]({{ "/assets/pdf/PLACEHOLDER_driveshaft_tech_report.pdf" | relative_url }})
+[View Full Technical Report]({{ "/assets/pdf/skd82_TG21_Driveshaft_Plunging_Cups_Full.pdf" | relative_url }})
