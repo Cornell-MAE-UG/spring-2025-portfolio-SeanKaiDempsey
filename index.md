@@ -9,11 +9,9 @@ title: Sean Kai Dempsey
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
 
-{{ site.name }} is currently a junior attending Cornell University's School of Engineering. Sean’s main academic focus is science and technology. At Cornell Sean is part of Cornell Baja Racing competing in the highest levels of collegiate off road racing. In his free time at school he enjoys exploring the expansive nature around Cornell and has gotten into rock climbing at the local Cornell Climbing Gym.
+Hi, I'm a junior at Cornell University studying Mechanical Engineering with a focus on design and fabrication. At Cornell, I'm a member of Cornell Baja Racing, where I serve as a Responsible Engineer — owning the full lifecycle of my components from CAD and design through fabrication and testing, competing at the highest levels of collegiate off-road racing.
+Before Cornell, I was recruited as a founding student board member of Chadwick School's Center for Innovation and Research, helping spearhead the construction of a new STEM center and its curriculum. I also led Chadwick's top VEX robotics team for three years, taking the team to both state and world championships.
 
-In high school, he was recruited to be a founding student board member of Chadwick High School’s Center for Innovation and Research which spearheaded the construction of Chadwick’s new STEM center and corresponding curriculum. He led Chadwick School's top VEX robotics team for three years leading the team to both the state and worlds championships.  
-
-
-
+Outside of engineering, I enjoy exploring the nature around Ithaca and rock climbing at the Cornell Climbing Gym.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>.
