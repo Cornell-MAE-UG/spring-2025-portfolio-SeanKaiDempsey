@@ -10,13 +10,6 @@ permalink: /resume/
 
 **Email:** [skd82@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +424-350-6778
 
----
-
-#### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
----
-
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
