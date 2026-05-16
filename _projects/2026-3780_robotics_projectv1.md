@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 3780 Robotics Competition
+title: Mechatronics Robotics Competition
 description: Mechatronics  
 technologies: [Arduino (AVR C), Fusion 360, Laser Cutting, Circuit Design]
 image: /assets/images/Mechatronics.jpg
