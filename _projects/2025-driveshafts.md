@@ -1,4 +1,4 @@
-competitions---
+---
 layout: project
 title: Cornell Baja Racing Driveshafts and Plunging Cups
 description: Advanced Design Project
