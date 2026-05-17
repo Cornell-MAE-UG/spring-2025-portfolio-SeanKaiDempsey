@@ -23,4 +23,4 @@ I noticed that the Arduino's bootloader introduced a 1.5-second startup delay wh
 
 <iframe src="{{ site.baseurl }}/assets/pdf/MAE3780_robotics_report.pdf" width="100%" height="800px"></iframe>
 
-[Mechatronics Robot Competition Report]({{ "/assets/pdf/MAE3270 Final HW.pdf" | relative_url }})
+[Mechatronics Robot Competition Report]({{ "/assets/pdf/MAE3780_robotics_report.pdf" | relative_url }})
