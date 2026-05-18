@@ -1,6 +1,6 @@
 ---
 layout: project
-title: High School VEX Robotics
+title: VEX Robotics
 description: Three-Year Competition Program
 technologies: [Autodesk Inventor, Onshape, Ansys Discovery, PID Control]
 image: /assets/images/VEX-SpinUp.jpg
@@ -21,7 +21,7 @@ The 2020 season hit during the COVID-19 school shutdowns. With no access to a sc
 
 ## Tipping Point (2021) — Worlds and the Build Award
 
-![Tipping Point at Worlds]({{ "/assets/images/VEX-TippingPoint.jpg" | relative_url }}){: style="width: 550px; display: block; margin: 0 auto;"}
+![Tipping Point at Worlds]({{ "/assets/images/VEX-TippingPoint.jpg" | relative_url }}){: style="width: 50%; display: block; margin: 0 auto;"}
 
 The following year we qualified for Worlds a second time and won the **Build Award at the California State Championship**. The Build Award is judged on the quality of the engineering design process as documented in the team's engineering notebook. This documentation covers research, design iterations, testing, and reflection. Winning it at states earned us a second invitation to compete at the World Championship against teams from across the globe.
 

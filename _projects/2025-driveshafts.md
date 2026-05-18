@@ -66,13 +66,13 @@ The final design uses necked down **gun-drilled 300M steel**. The rear shafts sa
 
 ## Ansys FEA
 
-![Front Left Diff Troque]({{ "/assets/images/Front Left Diff Troque.png" | relative_url }}){: style="width: 600px; display: block; margin: 0 auto;"}
+![Front Left Diff Troque]({{ "/assets/images/Front Left Diff Troque.png" | relative_url }}){: style="width: 100%; display: block; margin: 0 auto;"}
 
 The primary load case analyzed in Ansys is shock torque loading from a drop test. The car being dropped onto a high traction surface with the driveline spun up, producing a sudden shock torque. I set up the Ansys model to apply this torsional load and verify that stresses stayed within material limits. Stress concentrations from the fillets at diameter transitions were also investigated; the fillet radii were large enough relative to the shaft diameter that standard table-based stress concentration factors weren't applicable, making the Ansys validation particularly important.
 
 For the plunging cups I ran an axial load case on the front left diff cup and a sprag torque load case. The axial load case confirmed that the bearing surface stress was low, though reducing the bearing surface area without care could have made it significant. The sprag load case was updated to apply a 2 thou deformation (sourced from measured sprag deflection data) rather than a direct force, which better represents how the sprag physically loads the cup.
 
-![Plunging Cup Shock Torque Ansys]({{ "/assets/images/Rear Shock Ansys Setup1.png" | relative_url }}){: style="width: 600px; display: block; margin: 0 auto;"}
+![Plunging Cup Shock Torque Ansys]({{ "/assets/images/Rear Shock Ansys Setup1.png" | relative_url }}){: style="width: 100% display: block; margin: 0 auto;"}
 
 ## Plunging Cups
 
@@ -80,13 +80,13 @@ The plunging cups are the inboard CV housings that allow the driveshafts to plun
 
 ### Front Differential Plunging Cups
 
-![Front Diff Plunging Cup CAD]({{ "/assets/images/FDR-diff-plunging.png" | relative_url }}){: style="width: 500px; display: block; margin: 0 auto;"}
+![Front Diff Plunging Cup CAD]({{ "/assets/images/FDR-diff-plunging.png" | relative_url }}){: style="width: 100%; display: block; margin: 0 auto;"}
 
 The front plunging cups integrate with the front differential and had the most packaging challenges. A shimming oversight early in the design caused clearance issues between the cup and the diff/gearbox. Fixing this required moving the bearing abutment face and carefully re-verifying that enough material remained for axial load transfer. On the other side, the diff bolt circle was too close to the cup OD, requiring the outer diameter to be tapered down to avoid interference. I also standardized the bolt pattern to match TG19's retaining plate holes, allowing the front and rear cups to share the same retaining plates.
 
 ### Rear Plunging Cups
 
-![Rear Plunging Cup]({{ "/assets/images/Rear Plunging Cup.png" | relative_url }}){: style="width: 500px; display: block; margin: 0 auto;"}
+![Rear Plunging Cup]({{ "/assets/images/Rear Plunging Cup.png" | relative_url }}){: style="width: 100%; display: block; margin: 0 auto;"}
 
 For the rear plunging cups I added a key slot to the brake rotor mount interface. When tightening the rotor mount onto the cup, the mount seats into the groove, preventing any axial movement of the rotor mount during competition loading. This improved rotor retention reliability and reduced break drag across competitions.
 
