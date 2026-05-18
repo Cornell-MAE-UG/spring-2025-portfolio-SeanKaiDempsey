@@ -4,6 +4,7 @@ title: Cornell Baja Racing Driveshafts and Plunging Cups
 description: Advanced Design Project
 technologies: [Solidworks, ANSYS FEA, Trak Lathe]
 image: /assets/images/driveshafts.png
+order: 2
 ---
 
 My project for Cornell Baja Racing 2024–2025 was to design the driveshafts and plunging cups for TG21, Cornell Baja's 2025 competition car. The driveshafts transfer torque from the driveline to the wheels while accommodating suspension travel through CV joints. The plunging cups are the inboard CV housings that integrate directly with the front and rear gearboxes. Both parts went through a full redesign with a primary goal of significant weight reduction — the final result was a **58% weight reduction** on the driveshafts over the previous car.

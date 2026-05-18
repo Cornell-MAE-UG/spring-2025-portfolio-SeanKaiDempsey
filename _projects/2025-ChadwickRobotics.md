@@ -4,6 +4,7 @@ title: High School VEX Robotics
 description: Three-Year Competition Program
 technologies: [Autodesk Inventor, Onshape, Ansys Discovery, PID Control]
 image: /assets/images/VEX-SpinUp.jpg
+order: 6
 ---
 
 Over three years of high school VEX Robotics competition I led my team to qualify for the VEX World Championship twice, win the Build Award at the California State Championship, and ultimately design one of the most technically ambitious robots of my high school career: a turret bot with a custom PID auto-aim system built entirely within competition-legal parts.
